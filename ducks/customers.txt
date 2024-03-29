@@ -1,0 +1,7 @@
+john,password,john@email.com
+nela,password,nela@email.com
+2,3,1
+4,5,3
+8,9,7
+0,0,0
+me,me,me
